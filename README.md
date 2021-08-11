@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @threefirstnames-me
-- 👀 I’m interested in science, programming, data
+- 👀 I’m interested in science, data, design
 - 🌱 I’m currently learning python, Linux, cloud technology
 - 💞️ I’m looking to collaborate on CLI tools, data visuilizaion, web scraping
 - 📫 How to reach me git@threefirstnames.me
