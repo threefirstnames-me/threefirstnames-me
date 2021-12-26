@@ -63,5 +63,5 @@
 <a href="https://github.com/threefirstnames-me/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=threefirstnames-me">
 </a>
-<a href="https://github.com/threefirstnames-me?tab=followers"><img src="https://img.shields.io/github/followers/threefirstnames-me?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/threefirstnames-me?tab=followers"><img src="https://img.shields.io/github/followers/threefirstnames-me?label=Followers&style=social" ></a>
 
