@@ -1,6 +1,6 @@
 <br/>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chris</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm a passionate communicator and scientist.</h3>
 
 
@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on
 
-- 🌱 I’m currently learning **Databases.**
+- 🌱 I’m currently learning **AppleScript**, **Python**, **SQL**
 
-- 🤜 🤛 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://threefirstnames.me)**
+- 🤜 🤛 I’m looking to collaborate on **OpenSource Network Projects**
 
 - 📫 How to reach me **Something**
 
@@ -52,16 +50,6 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/christophergjohn/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-</p>
-
 ## ❤ Views and Followers
-<a href="https://github.com/threefirstnames-me/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=threefirstnames-me">
-</a>
 <a href="https://github.com/threefirstnames-me?tab=followers"><img src="https://img.shields.io/github/followers/threefirstnames-me?label=Followers&style=social" ></a>
 
