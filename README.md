@@ -37,16 +37,3 @@
 
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/threefirstnames-me/github-readme-activity-graph"><img alt="TFN's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=threefirstnames-me&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## ❤ Views and Followers
-<a href="https://github.com/threefirstnames-me?tab=followers"><img src="https://img.shields.io/github/followers/threefirstnames-me?label=Followers&style=social" ></a>
-
